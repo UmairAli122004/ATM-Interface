@@ -102,5 +102,5 @@ This project demonstrates end-to-end backend development skills, including sessi
 ## 👨‍💻 Developer
 -  Umair Ali
 - 🎓 B.Tech (CSE)
-- 💻 Java Backend Developer (Fresher)
+- 💻 Java Backend Developer
 - 📚 Skills: Core Java, JDBC, Hibernate, Servlets, JSP, MySQL, SpringBoot, OOP, DSA, JavaScript, REST APIs, Spring Data JPA
